@@ -19,6 +19,14 @@
     .scroll-down {
         display: none;
     }
+
+    .row {
+        display: flex;
+        flex-wrap: wrap;
+        border: 2px solid blue;
+        margin-bottom: 5%;
+    }
+    
     .about-img {
         display: none;
     }
