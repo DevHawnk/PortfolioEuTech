@@ -93,16 +93,14 @@
     .container-form {
         width: 100%;
     }
-    .footer {
+   .footer {
         width: 100%;
         max-width: 100%;
         padding: 2rem 0;
         margin: 0 auto;
-        border: 2 pix red;
     }
     .footer-content {
         display: flex;
-        flex-direction: column;
         justify-content: center;
     }
     .footer-content ul {
@@ -113,5 +111,11 @@
     }
     .footer-content ul li {
         margin-bottom: 1rem;
+    }
+    .footer-content p {
+        display: inline;
+        margin-right: 55px;
+        margin-right: 15px;
+        padding-left: 15px;
     }
 }
