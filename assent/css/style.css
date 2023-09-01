@@ -64,9 +64,10 @@ textarea {
 
 body {
   background-color: var(--color-prime);
-  color: var(--color-dark);
-  line-height: 1.7;
-  font-weight: var(--font-medium);
+    color: var(--color-dark);
+    line-height: 1.7;
+    font-weight: var(--font-medium);
+    overflow-x: hidden;
 }
 
 img {
